@@ -27,7 +27,6 @@ def gerar_email(tamanho=10):
 
 
 # gerar arquivo com emails e senhas
-meu_nome = 'Bruno'
 
 
 def gerar_e_escrever_arquivo(novo_arquivo, num):
